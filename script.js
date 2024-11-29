@@ -46,7 +46,7 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
   const password = document.getElementById('password').value;
 
   // Check if the entered password is 'comptechg2'
-  if (password === 'FUCK') {
+  if (password === 'friends') {
     // Redirect to a new page (index.html or any other page)
     window.location.href = 'index.html'; // Replace with your desired page
   } else {
