@@ -48,7 +48,7 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
   // Check if the entered password is 'comptechg2'
   if (password === 'friends') {
     // Redirect to a new page (index.html or any other page)
-    window.location.href = 'index.html'; // Replace with your desired page
+    window.location.href = 'main.html'; // Replace with your desired page
   } else {
     alert('HAHAHAHAHAHA... Kamoham jud lamag tabi.😹');
   }
